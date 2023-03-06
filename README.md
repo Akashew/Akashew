@@ -1,4 +1,4 @@
-<h1 align="center"> <img src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = "300" /></h1>
+<h1 align="center"> <img src = "https://cdn.discordapp.com/attachments/836007276468371476/1082190335263903795/output-onlinegiftools_1.gif" width = "300" /></h1>
 <h1 align="center">Hello 👋, I'm Akash Nelson</h1>
 <h3 align="center">An undergraduate CS student at University of Houston</h3>
 
@@ -6,13 +6,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akashew&label=Profile%20views&color=0e75b6&style=flat" alt="akashew" /> </p>
 
-- 🌱 I’m currently learning **LÖVE/Lua**
+- 🌱 I’m currently learning: **LÖVE/Lua**
 
-- 💬 Ask me about **Data Structures | C++ | Python**
+- 💬 Ask me about: **Data Structures | C++ | Python**
 
-- 📫 How to reach me **akashnelson00@gmail.com**
+- 📫 How to reach me: **akashnelson00@gmail.com**
 
-- ⚡ Fun fact **I've won over 10 medals for Academic Decathlon in HS**
+- ⚡ Fun fact: **I've won over 10 medals for Academic Decathlon in HS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
