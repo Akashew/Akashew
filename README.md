@@ -1,5 +1,5 @@
-<h1 align="center"> <img src = "https://cdn.discordapp.com/attachments/836007276468371476/1082190335263903795/output-onlinegiftools_1.gif" width = "300" /></h1>
-<h1 align="center">Hello 👋, I'm Akash Nelson</h1>
+<h1 align="center"> <img src = "https://cdn.discordapp.com/attachments/836007276468371476/1082190942179709019/f1e734f9cade86fe737a9aa404ad5677.gif" width = "300" /></h1>
+<h1 align="center">Hello <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "30" />, I'm Akash Nelson</h1>
 <h3 align="center">An undergraduate CS student at University of Houston</h3>
 
 
