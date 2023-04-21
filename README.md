@@ -12,7 +12,6 @@
 
 - 📫 How to reach me: **akashnelson00@gmail.com**
 
-- ⚡ Fun fact: **I've won over 10 medals for Academic Decathlon in HS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
