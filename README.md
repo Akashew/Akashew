@@ -1,7 +1,7 @@
 <h1 align="center"> <img src = "https://media.giphy.com/media/mojRj19FzhSXGBBqr2/giphy.gif" width = "300" /></h1>
 
 <h1 align="center">Hi <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "30" />, my name is Akash Nelson</h1>
-=======================================================================================
+=========================================================================================
 * 🌍  I'm based in Houston, Texas
 * ✉️  You can contact me at [akashnelson00@gmail.com](mailto:akashnelson00@gmail.com)
 * 🚀  I'm currently working on [2D game](http://github.com/Akashew/Escape)
