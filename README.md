@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning: **LÖVE/Lua**
 
-- 💬 Ask me about: **Data Structures | C++ | Python**
+- 💬 Ask me about: **Data Structures | C++ **
 
 - 📫 How to reach me: **akashnelson00@gmail.com**
 
