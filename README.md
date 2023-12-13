@@ -8,8 +8,6 @@
 
 * 🌍  I'm based in Houston, Texas
 * ✉️  You can contact me at [akashnelson00@gmail.com](mailto:akashnelson00@gmail.com)
-* 🚀  I'm currently working on [2D game](http://github.com/Akashew/Escape)
-* 🧠  I'm learning Game Development, specifically the 2D engine LÖVE
 * 🤝  I'm open to collaborating on any fun projects
 
 ### Skills
